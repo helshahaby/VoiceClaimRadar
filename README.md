@@ -12,7 +12,6 @@ ClaimRadar is a voice-first opportunity radar that helps users find verified hac
 
 ## Demo
 
-- Live prototype: https://claimradar.hossam-a-elshahaby.chatgpt.site
 - Lovable app: https://ai-palette-chooser.lovable.app/
 - Demo video: https://youtu.be/wzWk1DUPPvc
 
